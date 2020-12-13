@@ -51,7 +51,7 @@ h1 {
     font-weight: 300;
     text-decoration: none;
     border-radius: 200px;
-    transition: background-color 0.2s, border 0.2s, color 0.2s;
+    transition: background-color 0.5s, border 0.5s, color 0.5s;
 }
 
 .btn-full:link,
@@ -112,7 +112,7 @@ h1 {
     text-transform: uppercase;
     font-size: 90%;
     border-bottom: 2px solid transparent;
-    transition: border-bottom 0.2s;
+    transition: border-bottom 0.5s;
 }
 
 .main-nav li a:hover,
